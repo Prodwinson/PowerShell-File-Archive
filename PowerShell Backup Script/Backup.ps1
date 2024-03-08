@@ -1,4 +1,4 @@
-# Create 2 variables, one being the source of the backup and the other being the location of where the backup will be
+# Create 2 variables, one being the source of the backup and the other being the location of where the backup will be. Note that, you have to specific what you're trying to archive in the $source path
 $source = "C:\"
 $backup = "E:\"
 
